@@ -1,5 +1,7 @@
 # JUnit5-Koans
 
+This repo is extracted From https://github.com/codecop/Unit-Testing-Koans/tree/master/java-junit5 for educational purposes
+
 Java [Testing Koans](https://blog.code-cop.org/2015/12/testing-koans.html) to understand how to write unit tests with [JUnit 5](http://junit.org/junit5).
 
 ## Dependencies
